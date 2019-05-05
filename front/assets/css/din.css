@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Din';
+    src: url('DINWeb2.eot');
+    src: url('DINWeb2.eot?#iefix') format('embedded-opentype'),
+         url('DINWeb2.woff') format('woff'),
+         url('Din2.ttf') format('truetype'),
+         url('DINWeb2.svg#ralewaybold') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Din';
+    src: url('DINWeb-Light.eot');
+    src: url('DINWeb-Light.eot?#iefix') format('embedded-opentype'),
+         url('DINWeb-Light.woff') format('woff'),
+         url('Din.ttf') format('truetype'),
+         url('Din.svg#ralewaylight') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Din';
+    src: url('DINWeb2.eot');
+    src: url('DINWeb2.eot?#iefix') format('embedded-opentype'),
+         url('DINWeb2.woff') format('woff'),
+         url('Din2.ttf') format('truetype'),
+         url('Din2.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Din';
+    src: url('DINWeb-Light.eot');
+    src: url('DINWeb-Light.eot?#iefix') format('embedded-opentype'),
+         url('DINWeb-Light.woff') format('woff'),
+         url('Din.ttf') format('truetype'),
+         url('Din.svg#ralewaythin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Din'; 
+    src: url('DIN_Medium.eot'); /* IE9 Compatibility Modes */
+    src: url('DIN_Medium.eot?') format('eot'),  /* IE6-IE8 */
+    url('DIN_Medium.otf') format('otf'), 
+    url('DIN_Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+    }
+	
+/*********************************************/
+
+@font-face {
+    font-family: 'Din-web'; 
+    src:url('DINWeb.eot') format('eot'); 
+    }
+	
+@font-face {
+    font-family: 'DINWeb-Bold'; 
+    src:url('DINWeb-Bold.eot') format('eot');
+    }
+	
+@font-face {
+    font-family: 'DINWeb-Light'; 
+    src:url('DINWeb-Light.eot') format('eot'); 
+    }
+@font-face {
+    font-family: 'Din-web'; 
+    src:url('DINWeb.woff') format('woff'); 
+    }
+	
+@font-face {
+    font-family: 'DINWeb-Bold'; 
+    src:url('DINWeb-Bold.woff') format('woff');
+    }
+	
+@font-face {
+    font-family: 'DINWeb-Light'; 
+    src:url('DINWeb-Light.woff') format('woff'); 
+    }
+	
+	
+	/***************************/
+	
+@font-face {
+  font-family: 'Din-alternate';
+  src: url('DINAlternate-Bold.eot?#iefix') format('embedded-opentype'),
+  	   url('DINAlternate-Bold.woff') format('woff'),
+	   url('DINAlternate-Bold.ttf')  format('truetype'),
+	   url('DINAlternate-Bold.svg#DINAlternate-Bold') format('svg');
+ 	 font-weight: normal;
+  	 font-style: normal;
+}		
+
+@font-face {
+  font-family: 'Din-NeuzeitGrotesk';
+  src:  url('DINNeuzeitGroteskStd-Light.eot?#iefix') format('embedded-opentype'),
+		url('DINNeuzeitGroteskStd-Light.otf')  format('opentype'),
+		url('DINNeuzeitGroteskStd-Light.woff') format('woff'),
+		url('DINNeuzeitGroteskStd-Light.ttf')  format('truetype'),
+		url('DINNeuzeitGroteskStd-Light.svg#DINNeuzeitGroteskStd-Light') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Din-regular';
+  src: url('DIN-Regular.eot?#iefix') format('embedded-opentype'),  
+  url('DIN-Regular.woff') format('woff'), 
+  url('DIN-Regular.otf')  format('opentype'),
+  url('DIN-Regular.ttf')  format('truetype'), 
+  url('DIN-Regular.svg#DIN-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'Din-light';
+    src: url('DINWeb-Light.eot');
+    src: url('DINWeb-Light.eot?#iefix') format('embedded-opentype'),
+         url('DINWeb-Light.woff') format('woff'),
+         url('Din.ttf') format('truetype'),
+         url('Din.svg#ralewaylight') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+	
+	
+		
